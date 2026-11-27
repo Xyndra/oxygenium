@@ -2,5 +2,8 @@
 name = "oxygenium"
 version = "0.0.1"
 edition = "2024"
+license = "MPL-2.0"
+description = "Rust Metalanguage"
+repository = "https://github.com/Xyndra/oxygenium"
 
 [dependencies]
